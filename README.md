@@ -1,2 +1,2 @@
 # hello-world
-practice, practice, practice
+Look, I'm just a person. 
